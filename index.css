@@ -26,15 +26,14 @@ body {
     background-color: #E23349;
 }
 
-h1 {
+h1,
+h2 {
     letter-spacing: 2px;
     text-align: center;
     color: white;
 }
 
-h2 {
-    text-align: center;
-}
+
 
 input {
     margin: 0 auto;
